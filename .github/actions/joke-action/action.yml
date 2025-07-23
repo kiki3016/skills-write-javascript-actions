@@ -1,0 +1,13 @@
+name: "my joke action"
+
+description: "use an external API to retrieve and display a joke"
+
+runs:
+  using: "node16"
+  main: "main.js"name: "my joke action"
+
+description: "use an external API to retrieve and display a joke"
+
+runs:
+  using: "node16"
+  main: "main.js"
